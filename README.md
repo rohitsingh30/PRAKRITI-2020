@@ -4,3 +4,4 @@ Prediction of Total Soil Carbon(TC) and Total Soil Nitrogen(TN) using the elemen
 1. CODE-Prakriti.ipynb – Visualizing and finding the patterns
 2. Appendix_prakriti.docx – Summarization of Results from different models
 3. Prakriti ppt.pptx – PPT Submitted for the competition.
+THANK YOU TO THE TEAM MEMBERS
